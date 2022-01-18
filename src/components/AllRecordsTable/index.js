@@ -1,0 +1,1 @@
+export { AllRecordsTable } from "./AllRecordsTable";
